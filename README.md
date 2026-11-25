@@ -10,6 +10,10 @@
 
 > 新增主資料夾時，請在上表登記。
 
+## 給 Claude 的規則
+
+每次討論由 Claude 分類歸檔，規則見 [CLAUDE.md](CLAUDE.md)。
+
 ## 撰寫慣例
 
 - 文件以 Markdown 為主。
